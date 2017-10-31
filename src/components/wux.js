@@ -19,6 +19,7 @@ import $wuxRefresher from 'refresher/refresher'
 import $wuxToast from 'toast/toast'
 import $wuxToptips from 'toptips/toptips'
 import $wuxXnumber from 'xnumber/xnumber'
+import $wuxSeats from 'seats/seats'
 
 export {
     $wuxActionSheet,
@@ -42,4 +43,5 @@ export {
     $wuxToast,
     $wuxToptips,
     $wuxXnumber,
+    $wuxSeats, 
 }
