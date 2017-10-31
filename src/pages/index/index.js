@@ -121,6 +121,12 @@ Page({
                 url: '/pages/xnumber/index',
                 icon: '../../assets/images/iconfont-xnumber.png',
             },
+            {
+				title: 'Seats', 
+				remark: '座位图', 
+				url: '/pages/seats/index', 
+				icon: '../../assets/images/iconfont-seats.png', 
+			},
         ],
     },
     modSwitch(e) {
